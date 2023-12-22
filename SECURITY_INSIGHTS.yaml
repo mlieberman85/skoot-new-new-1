@@ -1,0 +1,15 @@
+contribution-policy:
+  accepts-automated-pull-requests: true
+  accepts-pull-requests: true
+distribution-points: []
+header:
+  expiration-date: 2024-12-21T13:31:39.376029Z
+  license: https://github.com/kusaridev/skoot-go/blob/main/LICENSE
+  project-url: https://github.com/kusaridev/skoot-go
+  schema-version: 1.0.0
+project-lifecycle:
+  bug-fixes-only: false
+  status: active
+security-contacts: []
+vulnerability-reporting:
+  accepts-vulnerability-reports: false
